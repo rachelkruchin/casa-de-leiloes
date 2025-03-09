@@ -1,4 +1,5 @@
 import javax.swing.JOptionPane;
+//criar exibir mensagem de erro
 public class cadastroVIEW extends javax.swing.JFrame {
 
  
